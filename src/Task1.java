@@ -11,7 +11,7 @@ public class Task1 {
         System.out.println("Enter second num: ");
         second = num.nextInt();
         result = first + second;
-        System.out.println("Result is - " + result);
+        System.out.println("Result iss - " + result);
 
     }
 }
